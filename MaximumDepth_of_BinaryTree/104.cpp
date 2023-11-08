@@ -1,5 +1,8 @@
 /*
 https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+- Time complexity: O(n)
+- Space complexity: O(n)
 */
 class Solution
 {

@@ -1,5 +1,8 @@
 /*
 https://leetcode.com/problems/symmetric-tree/description/
+
+- Time complexity: O(n)
+- Space complexity: O(n)
 */
 class Solution
 {

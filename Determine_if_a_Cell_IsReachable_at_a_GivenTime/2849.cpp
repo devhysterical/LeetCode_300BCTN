@@ -1,5 +1,8 @@
 /*
 https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/?envType=daily-question&envId=2023-11-08
+
+- Time complexity: O(1)
+- Space complexity: O(1)
 */
 class Solution
 {
