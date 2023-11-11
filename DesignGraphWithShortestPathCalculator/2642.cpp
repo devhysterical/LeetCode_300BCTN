@@ -45,7 +45,7 @@ public:
   {
     priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
     unordered_map<int, int> distance;
-    // Initialize distances with infinity
+
     for (int i = 0; i < n; ++i)
     {
       distance[i] = numeric_limits<int>::max();
