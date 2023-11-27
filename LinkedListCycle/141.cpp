@@ -1,5 +1,8 @@
 /*
 https://leetcode.com/problems/linked-list-cycle/description/
+
+- Time complexity: O(n)
+- Space complexity: O(n)
 */
 
 /**
