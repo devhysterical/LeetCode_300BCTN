@@ -1,5 +1,8 @@
 /*
 https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+
+- Time Complexity: O(m + n)
+- Space Complexity: O(1)
 */
 /**
  * Definition for singly-linked list.
